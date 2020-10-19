@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 [![GitHub forks](https://img.shields.io/github/forks/janyin/cdn.svg?style=social)](https://github.com/janyin/janyin/network/members)
 
-[![Codewars Badge](https://www.codewars.com/users/janyin/badges/micro)](https://www.codewars.com/users/janyin)
-
-
 ![](https://img.shields.io/badge/coverage-100%25-brightgreen)
 
 ![version badge](https://img.shields.io/badge/version-1.1.1-brightgreen)
