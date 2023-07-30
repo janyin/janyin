@@ -1,7 +1,5 @@
 # Hi there 👋
 
-![janyin github stats](https://github-readme-stats.vercel.app/api?username=janyin&show_icons=true)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janyin)
 
 ## 🧑🏻‍💻 Main Teah Stack
